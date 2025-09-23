@@ -1,5 +1,6 @@
 Lucas Kenzo Nishiwaki - RM561325
 
+
 INSTRUÇÕES DA ENTREGA:
 A atividade pode ser desenvolvida em grupo.
 
@@ -7,7 +8,9 @@ Apenas um integrante submete o arquivo.
 
 Enviar apenas o link do repositório. Não envie arquivos .txt ou .pdf.
 
+
 Dataset Solar Radiation Prediction
+
 
 Esse dataset é um conjunto de dados meteorológicos coletados pela estação HI-SEAS (no Havaí), durante setembro a dezembro de 2016,
 e a ideia é usá-lo para prever radiação solar — ou seja, estimar quanta energia solar estará disponível para geração elétrica em determinado momento.
@@ -29,6 +32,7 @@ Granularidade: registros a cada poucos minutos.
 
 
 Dataset Wind Turbine Scada Dataset
+
 
 Esse dataset Wind Turbine SCADA (2018, Turquia) traz medições de uma turbina eólica real ao longo de quase um ano, com intervalos de 10 minutos. 
 Ele é muito usado para estudos de modelagem de geração de energia, manutenção preditiva e otimização de turbinas.
